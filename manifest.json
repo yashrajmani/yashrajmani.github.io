@@ -1,11 +1,11 @@
 {
-    "name": "yashrajmani",
-    "short_name": "yashrajmani",
+    "name": "Yash Raj Mani",
+    "short_name": "Yash Raj Mani",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Meet Yash Raj Mani,a learner from Bihar,India & An undergrad student at VIT Vellore.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
