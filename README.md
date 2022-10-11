@@ -1,5 +1,6 @@
 # yashrajmani.github.io
-#  Visit My Portfolio Website At : https://yashrajmani.github.io/#/
+#  Visit My Portfolio Website At : http://www.yashrajmani.co/
+
 
 ## This folder is for github-pages hosting.
 
